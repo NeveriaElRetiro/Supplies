@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Suministros</string>
+    <string name="fab_sendDataList">Envío de la lista de faltantes</string>
+</resources>
