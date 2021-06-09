@@ -1,8 +1,9 @@
-package mx.neveriaelretiro.supplies
+package mx.neveriaelretiro.supplies.view
 
 import android.os.Bundle
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
+import mx.neveriaelretiro.supplies.R
 import mx.neveriaelretiro.supplies.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
